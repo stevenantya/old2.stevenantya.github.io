@@ -1,50 +1,44 @@
 ---
 # Display name
-title: 吳健雄
+title: Steven Waskito
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Steven Antya Orvala
+last_name: Waskito
 
 # Status emoji
-status:
+status: In San Francisco
   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student Researcher in Large Language Models
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National University of Singapore
+    url: https://www.nus.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, mobile computing and large language models.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Large Language Models
+  - Robotics
+  - Mobile Computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BEng in Computer Engineering
+      institution: National University of Singapore
+      year: 2025
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,32 +87,31 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:steven@comp.nus.edu.sg'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: 'google-scholar' # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=b4jbAEMAAAAJ hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/stevenantya
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/stevenantya
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/13DDXf5nMdpvdZSNHEmBogMpHCu0faI4h/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Steven Antya Orvala Waskito is award-winning student researcher at National University of Singapore. His research interests include large language models in robotics and mobile computing. Steven was part of Weiser Group led by Professor Ambuj Varshney, where he spearheaded the research of large language model for intelligent sensor data collection and analysis.
 {style="text-align: justify;"}
