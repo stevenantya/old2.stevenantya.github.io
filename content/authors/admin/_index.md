@@ -10,7 +10,7 @@ first_name: Steven Antya Orvala
 last_name: Waskito
 
 # Status emoji
-status: In San Francisco
+status:
   icon: ☕️
 
 # Is this the primary user of the site?
